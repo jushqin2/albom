@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.haji-logo{
+    display: flex;
+ 
+}
+.haji-logo img{
+    width: 380px;
+    height: 300px;
+}
+.utora{
+    margin-top: 50px;
+}
+
+.isto-hajime{
+    background: rgb(36,36,36);
+    background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(249,249,249,1) 30%, rgba(194,192,192,1) 50%, rgba(255,255,255,1) 70%, rgba(36,36,36,1) 100%, rgba(36,32,32,1) 100%);
+}
+.isto-hajime h1{
+
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.isto-hajime h2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+.jushqin video{
+    border-radius: 15px;
+}
+
+.jushqin{
+   
+    background: rgb(36,36,36);
+background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 50%, rgba(36,36,36,1) 100%);
+}
+.isto-hajime p{
+    color: rgb(0, 0, 0);
+}
+.istoriya{
+    margin-top: 30px;
+}
+.miyagi-isto h1{
+text-align: center;
+font-size: 70px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.miyagi-isto h2{
+text-align: center;
+}
+.albom-hajime img{
+    border-radius: 20px;
+    width: 280px;
+    height: 200px;
+}
+.miyagi-isto{
+    
+    background: rgb(36,36,36);
+    background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(198,198,198,1) 0%, rgba(92,92,92,1) 0%, rgba(122,122,122,1) 40%, rgba(255,255,255,1) 100%, rgba(36,36,36,1) 100%);
+}
+.miyagi-kar img{
+ border-radius: 20px;
+    width: 282px;
+    height: 280px;
+}
+.endi-kar img{
+    border-radius: 20px;
+    width: 280px;
+    height: 290px;
+}
+.endi-isto{
+    background: rgb(36,36,36);
+    background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(198,198,198,1) 0%, rgba(97,97,97,1) 54%, rgba(54,54,54,1) 100%, rgba(255,255,255,1) 100%, rgba(36,36,36,1) 100%);
+}
+.endi-isto h1{
+text-align: center;
+font-size: 60px;
+}
+.endi-isto h2{
+text-align: center;
+}
+.main{
+  text-align: center;
+  font-size: 50px;
+   position: sticky;
+ 
+   top: 0;
+}
+.silla{
+text-align: center ;
+display: flex;
+gap: 80px;
+padding: 0px 0px 0px 420px ;
+
+}
+.silla ul{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(0, 0, 0);
+}
+.silla button{
+    background: rgb(36,36,36);
+    background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(1,1,1,1) 0%, rgba(63,189,185,1) 50%, rgba(36,36,36,1) 100%, rgba(54,54,54,1) 100%, rgba(255,255,255,1) 100%);
+      width: 170px;
+      height: 70px;
+      border: none;
+    
+}
+
+
+
+
+
+
+
